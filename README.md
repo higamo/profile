@@ -6,23 +6,23 @@ higamo
 
 # WEBエンジニアとしてのスキル(2019/05現在)
 - サーバーサイドスキル
-	言語,フレームワークなど
+	- 言語,フレームワークなど
 		- Perl(v5.16.3) 実務4年
 		- Python(v3.5, v3.6) Django(v2.2) 実務1年
 		- PHP 実務１年
-	データベース
+	- データベース
 		- Oracle
  		- mysql
-	OS
+	- OS
 		- AmazonLinux(AMI release 2017.09)
 		- CentOS6.5〜
 
 - フロントエンドスキル
-	言語,フレームワークなど
+	- 言語,フレームワークなど
 		- JavaScript
 		- jquery
 		- Bootstrap
-	CMS
+	- CMS
 		- WordPress
 
 - その他
